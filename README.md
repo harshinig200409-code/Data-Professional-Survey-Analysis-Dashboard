@@ -16,8 +16,8 @@ Two datasets were used:
 These datasets were combined and analyzed to understand workforce trends and compensation patterns.
 
 ### Business Objectives
--Analyze employee distribution across departments
--Evaluate salary patterns and compensation trends
+• Analyze employee distribution across departments
+- Evaluate salary patterns and compensation trends
 -Identify relationship between experience and salary
 -Compare salary distribution across different departments
 -Support data-driven HR decision-making and workforce planning
