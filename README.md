@@ -1,13 +1,13 @@
 # Data-Professional-Survey-Analysis-Dashboard
 
-Power BI dashboard analyzing global data professional survey data to uncover insights on salaries, skills, job roles, and industry trends.
+  Power BI dashboard analyzing global data professional survey data to uncover insights on salaries, skills, job roles, and industry trends.
 
 ### Project Overview
-Developed an interactive Power BI dashboard to analyze employee data and salary distribution.Performed data cleaning, transformation, and exploratory data analysis (EDA) to extract meaningful insights.Built KPI-driven visualizations to support HR decision-making and workforce planning.
+  Developed an interactive Power BI dashboard to analyze employee data and salary distribution.Performed data cleaning, transformation, and exploratory data analysis (EDA) to extract meaningful insights.Built KPI-driven visualizations to support HR decision-making and workforce planning.
 
 ### About Dataset
 
-The dataset consists of employee-related information, including salary details and organizational attributes. It includes structured data such as employee ID, department, salary, experience, and other relevant fields.
+  The dataset consists of employee-related information, including salary details and organizational attributes. It includes structured data such as employee ID, department, salary, experience, and other relevant fields.
 Two datasets were used:
 
 - Employee Details Dataset – Contains employee demographic and organizational data.
@@ -64,4 +64,4 @@ These datasets were combined and analyzed to understand workforce trends and com
 - Trend Analysis – Relationship between experience and salary trends across the organization
 
 ### Conclusion
-The HR Analytics dashboard provides valuable insights into employee distribution, salary patterns, and organizational structure. It enables data-driven HR decisions, improving workforce management and strategic planning.
+  The HR Analytics dashboard provides valuable insights into employee distribution, salary patterns, and organizational structure. It enables data-driven HR decisions, improving workforce management and strategic planning.
